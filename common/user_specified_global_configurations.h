@@ -9,8 +9,8 @@
  *********************************************/
 
 //#define BFS
-#define SSSP
-//#define PR
+//#define SSSP
+#define PR
 
 /*********************************************
  * User's Compile-time constant definitions.
